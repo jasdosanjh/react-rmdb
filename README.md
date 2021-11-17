@@ -2,7 +2,7 @@
 RMDB is a modern movie database made using React.js, and The Movie Database API.
 
 ## Live Demo:
-http://www.jazdosanjh.com/rmdb/
+https://jasdosanjh.github.io/rmdb/
 
 ## Built With
 * React.js
